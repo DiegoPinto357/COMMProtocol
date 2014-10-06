@@ -1,0 +1,7 @@
+AA FF 15 0C 05 21 21 00 00 02 41    data_capture y axis
+
+AA FF 15 0C 05 A7 A7 00 00 02 41    data_capture imu pitch
+
+AA FF 15 21 02 00 00 64             y_axis = 0000
+
+AA FF 15 21 02 00 01 65             y_axis = 0001
